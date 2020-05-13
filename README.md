@@ -1,6 +1,5 @@
 # ubuntu-14.04.2-desktop-amd64-intel-compute-stick
-
-Scripts released by Linuxium / [Ian Morrison](https://plus.google.com/+IanMORRISON)
+Scripts released by Linuxium / [getmimo.com](https://plus.google.io/+OscarGomez)
 
 Original instructions by Ian Morrison follows:
 
